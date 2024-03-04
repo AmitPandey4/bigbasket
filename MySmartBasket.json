@@ -18,7 +18,8 @@
           "seller_price": 34,
           "quantity": "1kg"
         }
-      ]
+      ],
+      "url": "https://www.bigbasket.com/pd/10000027/fresho-banana-robusta-500-g/"
     },
     {
       "image_url": "10000067_23-fresho-capsicum-green.jpg",
@@ -43,7 +44,8 @@
           "seller_price": 50,
           "quantity": "1kg"
         }
-      ]
+      ],
+      "url": "https://www.bigbasket.com/pd/10000067/fresho-capsicum-green-1-kg/"
     },
     {
       "image_url": "10000083_17-fresho-chilli-green-long-medium.jpg",
@@ -68,7 +70,8 @@
           "seller_price": 70,
           "quantity": "1kg"
         }
-      ]
+      ],
+      "url": "https://www.bigbasket.com/pd/10000083/fresho-chilli-green-long-medium-500-g/"
     },
     {
       "image_url": "10000326_14-fresho-coriander-leaves.jpg",
@@ -93,7 +96,8 @@
           "seller_price": 20,
           "quantity": "500g"
         }
-      ]
+      ],
+      "url": "https://www.bigbasket.com/pd/10000326/fresho-coriander-leaves-1-kg/"
     },
     {
       "image_url": "10000119_18-fresho-ginger.jpg",
@@ -118,7 +122,8 @@
           "seller_price": 28,
           "quantity": "1kg"
         }
-      ]
+      ],
+      "url": "https://www.bigbasket.com/pd/10000119/fresho-ginger-500-g/"
     },
     {
       "image_url": "10000128_17-fresho-lemon.jpg",
@@ -143,7 +148,8 @@
           "seller_price": 14,
           "quantity": "12 pieces"
         }
-      ]
+      ],
+      "url": "https://www.bigbasket.com/pd/10000128/fresho-lemon-500-g/"
     },
     {
       "image_url": "10000142_17-fresho-ladies-finger.jpg",
@@ -168,7 +174,8 @@
           "seller_price": 38,
           "quantity": "1kg"
         }
-      ]
+      ],
+      "url": "https://www.bigbasket.com/pd/10000142/fresho-ladies-finger-1-kg/"
     },
     {
       "image_url": "10000150_19-fresho-onion.jpg",
@@ -193,7 +200,8 @@
           "seller_price": 28,
           "quantity": "2kg"
         }
-      ]
+      ],
+      "url": "https://www.bigbasket.com/pd/10000150/fresho-onion-5-kg/"
     }
   ]
 }
