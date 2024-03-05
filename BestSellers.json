@@ -9,26 +9,23 @@
       "options": [
         {
           "pack_size": "1 Pack",
-          "mrp": 24.99,
-          "discount_percentage": 30,
-          "discounted_price": 18.99,
-          "seller_price": 13.5,
+          "fixed_price": 17.99,
+          "percentage": 28,
+          "seller_price": 15,
           "quantity": "1 px"
         },
         {
           "pack_size": "2 Packs",
-          "mrp": 49.98,
-          "discount_percentage": 35,
-          "discounted_price": 32.49,
-          "seller_price": 26,
+          "fixed_price": 32.49,
+          "percentage": 35,
+          "seller_price": 28,
           "quantity": "2 px"
         },
         {
           "pack_size": "Combo Pack (3 Packs)",
-          "mrp": 74.97,
-          "discount_percentage": 40,
-          "discounted_price": 44.98,
-          "seller_price": 38,
+          "fixed_price": 44.98,
+          "percentage": 40,
+          "seller_price": 40,
           "quantity": "3 px"
         }
       ]
@@ -41,26 +38,23 @@
       "options": [
         {
           "pack_size": "1 Pack",
-          "mrp": 27.99,
-          "discount_percentage": 25,
-          "discounted_price": 21.49,
-          "seller_price": 18,
+          "fixed_price": 17.99,
+          "percentage": 28,
+          "seller_price": 15,
           "quantity": "1 px"
         },
         {
           "pack_size": "2 Packs",
-          "mrp": 55.98,
-          "discount_percentage": 30,
-          "discounted_price": 38.99,
-          "seller_price": 32,
+          "fixed_price": 32.49,
+          "percentage": 35,
+          "seller_price": 28,
           "quantity": "2 px"
         },
         {
           "pack_size": "Combo Pack (3 Packs)",
-          "mrp": 83.97,
-          "discount_percentage": 35,
-          "discounted_price": 52.18,
-          "seller_price": 48,
+          "fixed_price": 44.98,
+          "percentage": 40,
+          "seller_price": 40,
           "quantity": "3 px"
         }
       ]
@@ -73,26 +67,23 @@
       "options": [
         {
           "pack_size": "1 Pack",
-          "mrp": 29.99,
-          "discount_percentage": 22,
-          "discounted_price": 23.39,
-          "seller_price": 20,
+          "fixed_price": 17.99,
+          "percentage": 28,
+          "seller_price": 15,
           "quantity": "1 px"
         },
         {
           "pack_size": "2 Packs",
-          "mrp": 59.98,
-          "discount_percentage": 28,
-          "discounted_price": 42.99,
-          "seller_price": 38,
+          "fixed_price": 32.49,
+          "percentage": 35,
+          "seller_price": 28,
           "quantity": "2 px"
         },
         {
           "pack_size": "Combo Pack (3 Packs)",
-          "mrp": 89.97,
-          "discount_percentage": 32,
-          "discounted_price": 58.13,
-          "seller_price": 55,
+          "fixed_price": 44.98,
+          "percentage": 40,
+          "seller_price": 40,
           "quantity": "3 px"
         }
       ]
@@ -105,25 +96,22 @@
       "options": [
         {
           "pack_size": "1 Pack",
-          "mrp": 24.99,
-          "discount_percentage": 28,
-          "discounted_price": 17.99,
+          "fixed_price": 17.99,
+          "percentage": 28,
           "seller_price": 15,
           "quantity": "1 px"
         },
         {
           "pack_size": "2 Packs",
-          "mrp": 49.98,
-          "discount_percentage": 35,
-          "discounted_price": 32.49,
+          "fixed_price": 32.49,
+          "percentage": 35,
           "seller_price": 28,
           "quantity": "2 px"
         },
         {
           "pack_size": "Combo Pack (3 Packs)",
-          "mrp": 74.97,
-          "discount_percentage": 40,
-          "discounted_price": 44.98,
+          "fixed_price": 44.98,
+          "percentage": 40,
           "seller_price": 40,
           "quantity": "3 px"
         }
@@ -131,32 +119,29 @@
     },
     {
       "image_url": "40085598_3-bigbasket-baby-wipes-cherry-blossom-no-paraben-double-moisturizing.jpg",
-      "name": "Baby Wipes - Cherry Blossom, No Paraben, Double Moisturizing",
+      "name": "Baby Wipes - Cherry Blossom, No Paraben, Double Moisturising",
       "category": "Bigbasket",
       "url": "https://www.bigbasket.com/pd/40085598/bigbasket-baby-wipes-cherry-blossom-no-paraben-double-moisturizing-80-pcs/",
       "options": [
         {
           "pack_size": "1 Pack",
-          "mrp": 30.99,
-          "discount_percentage": 20,
-          "discounted_price": 24.79,
-          "seller_price": 22,
+          "fixed_price": 17.99,
+          "percentage": 28,
+          "seller_price": 15,
           "quantity": "1 px"
         },
         {
           "pack_size": "2 Packs",
-          "mrp": 61.98,
-          "discount_percentage": 25,
-          "discounted_price": 46.49,
-          "seller_price": 42,
+          "fixed_price": 32.49,
+          "percentage": 35,
+          "seller_price": 28,
           "quantity": "2 px"
         },
         {
           "pack_size": "Combo Pack (3 Packs)",
-          "mrp": 92.97,
-          "discount_percentage": 30,
-          "discounted_price": 65.08,
-          "seller_price": 60,
+          "fixed_price": 44.98,
+          "percentage": 40,
+          "seller_price": 40,
           "quantity": "3 px"
         }
       ]
@@ -169,26 +154,23 @@
       "options": [
         {
           "pack_size": "1 Pack",
-          "mrp": 39.99,
-          "discount_percentage": 35,
-          "discounted_price": 25.99,
-          "seller_price": 22,
+          "fixed_price": 32.99,
+          "percentage": 25,
+          "seller_price": 28,
           "quantity": "1 px"
         },
         {
           "pack_size": "2 Packs",
-          "mrp": 79.98,
-          "discount_percentage": 40,
-          "discounted_price": 49.99,
-          "seller_price": 45,
+          "fixed_price": 59.49,
+          "percentage": 30,
+          "seller_price": 50,
           "quantity": "2 px"
         },
         {
           "pack_size": "Combo Pack (3 Packs)",
-          "mrp": 119.97,
-          "discount_percentage": 45,
-          "discounted_price": 74.99,
-          "seller_price": 70,
+          "fixed_price": 84.98,
+          "percentage": 35,
+          "seller_price": 75,
           "quantity": "3 px"
         }
       ]
@@ -201,26 +183,23 @@
       "options": [
         {
           "pack_size": "1 Pack",
-          "mrp": 18.99,
-          "discount_percentage": 25,
-          "discounted_price": 14.24,
+          "fixed_price": 14.99,
+          "percentage": 20,
           "seller_price": 12,
           "quantity": "1 px"
         },
         {
           "pack_size": "2 Packs",
-          "mrp": 37.98,
-          "discount_percentage": 30,
-          "discounted_price": 26.59,
-          "seller_price": 24,
+          "fixed_price": 26.99,
+          "percentage": 25,
+          "seller_price": 22,
           "quantity": "2 px"
         },
         {
           "pack_size": "Combo Pack (3 Packs)",
-          "mrp": 56.97,
-          "discount_percentage": 35,
-          "discounted_price": 38.98,
-          "seller_price": 36,
+          "fixed_price": 38.99,
+          "percentage": 30,
+          "seller_price": 32,
           "quantity": "3 px"
         }
       ]
@@ -233,26 +212,23 @@
       "options": [
         {
           "pack_size": "1 Pack",
-          "mrp": 19.99,
-          "discount_percentage": 20,
-          "discounted_price": 15.99,
-          "seller_price": 14,
+          "fixed_price": 14.99,
+          "percentage": 20,
+          "seller_price": 12,
           "quantity": "1 px"
         },
         {
           "pack_size": "2 Packs",
-          "mrp": 39.98,
-          "discount_percentage": 25,
-          "discounted_price": 29.99,
-          "seller_price": 27,
+          "fixed_price": 26.99,
+          "percentage": 25,
+          "seller_price": 22,
           "quantity": "2 px"
         },
         {
           "pack_size": "Combo Pack (3 Packs)",
-          "mrp": 59.97,
-          "discount_percentage": 30,
-          "discounted_price": 41.99,
-          "seller_price": 39,
+          "fixed_price": 38.99,
+          "percentage": 30,
+          "seller_price": 32,
           "quantity": "3 px"
         }
       ]
