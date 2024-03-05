@@ -1,1 +1,261 @@
-h
+{
+  "base_url": "https://www.bigbasket.com/media/uploads/p/m/",
+  "products": [
+    {
+      "image_url": "40202339_4-pampers-baby-wipes-with-aloe.jpg",
+      "name": "Baby Wipes - With Aloe",
+      "category": "Pampers",
+      "url": "https://www.bigbasket.com/pd/40202339/pampers-baby-wipes-with-aloe-144-pcs/",
+      "options": [
+        {
+          "pack_size": "1 Pack",
+          "mrp": 24.99,
+          "discount_percentage": 30,
+          "discounted_price": 18.99,
+          "seller_price": 13.5,
+          "quantity": "1 px"
+        },
+        {
+          "pack_size": "2 Packs",
+          "mrp": 49.98,
+          "discount_percentage": 35,
+          "discounted_price": 32.49,
+          "seller_price": 26,
+          "quantity": "2 px"
+        },
+        {
+          "pack_size": "Combo Pack (3 Packs)",
+          "mrp": 74.97,
+          "discount_percentage": 40,
+          "discounted_price": 44.98,
+          "seller_price": 38,
+          "quantity": "3 px"
+        }
+      ]
+    },
+    {
+      "image_url": "1201458_2-bigbasket-baby-wipes-sea-breeze-no-paraben-double-moisturizing.jpg",
+      "name": "Baby Wipes - Sea Breeze, No Paraben, Double Moisturizing",
+      "category": "Bigbasket",
+      "url": "https://www.bigbasket.com/pd/1201458/bigbasket-baby-wipes-sea-breeze-no-paraben-double-moisturizing-3x80-pcs/",
+      "options": [
+        {
+          "pack_size": "1 Pack",
+          "mrp": 27.99,
+          "discount_percentage": 25,
+          "discounted_price": 21.49,
+          "seller_price": 18,
+          "quantity": "1 px"
+        },
+        {
+          "pack_size": "2 Packs",
+          "mrp": 55.98,
+          "discount_percentage": 30,
+          "discounted_price": 38.99,
+          "seller_price": 32,
+          "quantity": "2 px"
+        },
+        {
+          "pack_size": "Combo Pack (3 Packs)",
+          "mrp": 83.97,
+          "discount_percentage": 35,
+          "discounted_price": 52.18,
+          "seller_price": 48,
+          "quantity": "3 px"
+        }
+      ]
+    },
+    {
+      "image_url": "1201459_3-bigbasket-baby-wipes-fresh-no-paraben-double-moisturizing.jpg",
+      "name": "Baby Wipes - Fresh, No Paraben, Double Moisturizing",
+      "category": "Bigbasket",
+      "url": "https://www.bigbasket.com/pd/1201459/bigbasket-baby-wipes-fresh-no-paraben-double-moisturizing-3x80-pcs/",
+      "options": [
+        {
+          "pack_size": "1 Pack",
+          "mrp": 29.99,
+          "discount_percentage": 22,
+          "discounted_price": 23.39,
+          "seller_price": 20,
+          "quantity": "1 px"
+        },
+        {
+          "pack_size": "2 Packs",
+          "mrp": 59.98,
+          "discount_percentage": 28,
+          "discounted_price": 42.99,
+          "seller_price": 38,
+          "quantity": "2 px"
+        },
+        {
+          "pack_size": "Combo Pack (3 Packs)",
+          "mrp": 89.97,
+          "discount_percentage": 32,
+          "discounted_price": 58.13,
+          "seller_price": 55,
+          "quantity": "3 px"
+        }
+      ]
+    },
+    {
+      "image_url": "40091566_10-littles-soft-cleansing-baby-wipes-with-aloe-vera-jojoba-oil-vitamin-e.jpg",
+      "name": "Baby Wipes - With Aloe Vera, Jojoba Oil & Vitamin E",
+      "category": "Littles",
+      "url": "https://www.bigbasket.com/pd/40091566/littles-soft-cleansing-baby-wipes-with-aloe-vera-jojoba-oil-vitamin-e-80-pcs/",
+      "options": [
+        {
+          "pack_size": "1 Pack",
+          "mrp": 24.99,
+          "discount_percentage": 28,
+          "discounted_price": 17.99,
+          "seller_price": 15,
+          "quantity": "1 px"
+        },
+        {
+          "pack_size": "2 Packs",
+          "mrp": 49.98,
+          "discount_percentage": 35,
+          "discounted_price": 32.49,
+          "seller_price": 28,
+          "quantity": "2 px"
+        },
+        {
+          "pack_size": "Combo Pack (3 Packs)",
+          "mrp": 74.97,
+          "discount_percentage": 40,
+          "discounted_price": 44.98,
+          "seller_price": 40,
+          "quantity": "3 px"
+        }
+      ]
+    },
+    {
+      "image_url": "40085598_3-bigbasket-baby-wipes-cherry-blossom-no-paraben-double-moisturizing.jpg",
+      "name": "Baby Wipes - Cherry Blossom, No Paraben, Double Moisturizing",
+      "category": "Bigbasket",
+      "url": "https://www.bigbasket.com/pd/40085598/bigbasket-baby-wipes-cherry-blossom-no-paraben-double-moisturizing-80-pcs/",
+      "options": [
+        {
+          "pack_size": "1 Pack",
+          "mrp": 30.99,
+          "discount_percentage": 20,
+          "discounted_price": 24.79,
+          "seller_price": 22,
+          "quantity": "1 px"
+        },
+        {
+          "pack_size": "2 Packs",
+          "mrp": 61.98,
+          "discount_percentage": 25,
+          "discounted_price": 46.49,
+          "seller_price": 42,
+          "quantity": "2 px"
+        },
+        {
+          "pack_size": "Combo Pack (3 Packs)",
+          "mrp": 92.97,
+          "discount_percentage": 30,
+          "discounted_price": 65.08,
+          "seller_price": 60,
+          "quantity": "3 px"
+        }
+      ]
+    },
+    {
+      "image_url": "40202329_1-dabur-baby-wipes-with-moisture-lock-cap.jpg",
+      "name": "Baby Wipes With Moisture Lock Cap",
+      "category": "Dabur",
+      "url": "https://www.bigbasket.com/pd/40202329/dabur-baby-wipes-with-moisture-lock-cap-480-wipes/",
+      "options": [
+        {
+          "pack_size": "1 Pack",
+          "mrp": 39.99,
+          "discount_percentage": 35,
+          "discounted_price": 25.99,
+          "seller_price": 22,
+          "quantity": "1 px"
+        },
+        {
+          "pack_size": "2 Packs",
+          "mrp": 79.98,
+          "discount_percentage": 40,
+          "discounted_price": 49.99,
+          "seller_price": 45,
+          "quantity": "2 px"
+        },
+        {
+          "pack_size": "Combo Pack (3 Packs)",
+          "mrp": 119.97,
+          "discount_percentage": 45,
+          "discounted_price": 74.99,
+          "seller_price": 70,
+          "quantity": "3 px"
+        }
+      ]
+    },
+    {
+      "image_url": "40125231_4-bodyguard-premium-baby-wet-wipes-with-aloe-vera-paraben-free.jpg",
+      "name": "Baby Wet Wipes with Vitamin E & Aloe Vera, 72 Wipes/Pack",
+      "category": "Bodyguard",
+      "url": "https://www.bigbasket.com/pd/40125231/bodyguard-premium-baby-wet-wipes-with-aloe-vera-paraben-free-72-pulls/",
+      "options": [
+        {
+          "pack_size": "1 Pack",
+          "mrp": 18.99,
+          "discount_percentage": 25,
+          "discounted_price": 14.24,
+          "seller_price": 12,
+          "quantity": "1 px"
+        },
+        {
+          "pack_size": "2 Packs",
+          "mrp": 37.98,
+          "discount_percentage": 30,
+          "discounted_price": 26.59,
+          "seller_price": 24,
+          "quantity": "2 px"
+        },
+        {
+          "pack_size": "Combo Pack (3 Packs)",
+          "mrp": 56.97,
+          "discount_percentage": 35,
+          "discounted_price": 38.98,
+          "seller_price": 36,
+          "quantity": "3 px"
+        }
+      ]
+    },
+    {
+      "image_url": "40202365_2-bodyguard-premium-paraben-free-baby-wet-wipes-with-aloe-vera.jpg",
+      "name": "Baby Wet Wipes with Vitamin E & Aloe Vera, 72 Wipes/Pack",
+      "category": "Bodyguard",
+      "url": "https://www.bigbasket.com/pd/40202365/bodyguard-premium-paraben-free-baby-wet-wipes-with-aloe-vera-72-wipes/",
+      "options": [
+        {
+          "pack_size": "1 Pack",
+          "mrp": 19.99,
+          "discount_percentage": 20,
+          "discounted_price": 15.99,
+          "seller_price": 14,
+          "quantity": "1 px"
+        },
+        {
+          "pack_size": "2 Packs",
+          "mrp": 39.98,
+          "discount_percentage": 25,
+          "discounted_price": 29.99,
+          "seller_price": 27,
+          "quantity": "2 px"
+        },
+        {
+          "pack_size": "Combo Pack (3 Packs)",
+          "mrp": 59.97,
+          "discount_percentage": 30,
+          "discounted_price": 41.99,
+          "seller_price": 39,
+          "quantity": "3 px"
+        }
+      ]
+    }
+  ]
+}
